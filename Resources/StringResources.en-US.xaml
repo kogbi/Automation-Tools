@@ -1,0 +1,43 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <sys:String x:Key="AppTitle" xmlns:sys="clr-namespace:System;assembly=mscorlib">Automation Tools</sys:String>
+    <sys:String x:Key="TargetWindowTitle" xmlns:sys="clr-namespace:System;assembly=mscorlib">Target Window Title</sys:String>
+    <sys:String x:Key="MatchConfidence" xmlns:sys="clr-namespace:System;assembly=mscorlib">Match Confidence</sys:String>
+    <sys:String x:Key="PinHost" xmlns:sys="clr-namespace:System;assembly=mscorlib">PIN Host</sys:String>
+    <sys:String x:Key="PinPort" xmlns:sys="clr-namespace:System;assembly=mscorlib">PIN Port</sys:String>
+    <sys:String x:Key="LoopEnabled" xmlns:sys="clr-namespace:System;assembly=mscorlib">Loop</sys:String>
+    <sys:String x:Key="Steps" xmlns:sys="clr-namespace:System;assembly=mscorlib">Steps</sys:String>
+    <sys:String x:Key="Add" xmlns:sys="clr-namespace:System;assembly=mscorlib">Add</sys:String>
+    <sys:String x:Key="Remove" xmlns:sys="clr-namespace:System;assembly=mscorlib">Remove</sys:String>
+    <sys:String x:Key="Up" xmlns:sys="clr-namespace:System;assembly=mscorlib">Up</sys:String>
+    <sys:String x:Key="Down" xmlns:sys="clr-namespace:System;assembly=mscorlib">Down</sys:String>
+    <sys:String x:Key="StepEditor" xmlns:sys="clr-namespace:System;assembly=mscorlib">Step Editor</sys:String>
+    <sys:String x:Key="Name" xmlns:sys="clr-namespace:System;assembly=mscorlib">Name</sys:String>
+    <sys:String x:Key="Action" xmlns:sys="clr-namespace:System;assembly=mscorlib">Action</sys:String>
+    <sys:String x:Key="TemplateFile" xmlns:sys="clr-namespace:System;assembly=mscorlib">Template</sys:String>
+    <sys:String x:Key="Browse" xmlns:sys="clr-namespace:System;assembly=mscorlib">Browse</sys:String>
+    <sys:String x:Key="Paste" xmlns:sys="clr-namespace:System;assembly=mscorlib">Paste</sys:String>
+    <sys:String x:Key="Clear" xmlns:sys="clr-namespace:System;assembly=mscorlib">Clear</sys:String>
+    <sys:String x:Key="TemplateHint" xmlns:sys="clr-namespace:System;assembly=mscorlib">Drag image here or press Ctrl+V to paste</sys:String>
+    <sys:String x:Key="Timeout" xmlns:sys="clr-namespace:System;assembly=mscorlib">Timeout (sec)</sys:String>
+    <sys:String x:Key="Swipe" xmlns:sys="clr-namespace:System;assembly=mscorlib">Swipe (window-relative)</sys:String>
+    <sys:String x:Key="StartX" xmlns:sys="clr-namespace:System;assembly=mscorlib">Start X</sys:String>
+    <sys:String x:Key="StartY" xmlns:sys="clr-namespace:System;assembly=mscorlib">Start Y</sys:String>
+    <sys:String x:Key="EndX" xmlns:sys="clr-namespace:System;assembly=mscorlib">End X</sys:String>
+    <sys:String x:Key="EndY" xmlns:sys="clr-namespace:System;assembly=mscorlib">End Y</sys:String>
+    <sys:String x:Key="TextMessage" xmlns:sys="clr-namespace:System;assembly=mscorlib">Text / Message</sys:String>
+    <sys:String x:Key="TemplatesFolder" xmlns:sys="clr-namespace:System;assembly=mscorlib">Templates Folder</sys:String>
+    <sys:String x:Key="DoneMessage" xmlns:sys="clr-namespace:System;assembly=mscorlib">Done Message</sys:String>
+    <sys:String x:Key="ValidateStep" xmlns:sys="clr-namespace:System;assembly=mscorlib">Validate step completion</sys:String>
+    <sys:String x:Key="FailAction" xmlns:sys="clr-namespace:System;assembly=mscorlib">Fail Action</sys:String>
+    <sys:String x:Key="FailTarget" xmlns:sys="clr-namespace:System;assembly=mscorlib">Fail Target Step Index</sys:String>
+    <sys:String x:Key="FailMessage" xmlns:sys="clr-namespace:System;assembly=mscorlib">Fail Message</sys:String>
+    <sys:String x:Key="Load" xmlns:sys="clr-namespace:System;assembly=mscorlib">Load</sys:String>
+    <sys:String x:Key="Save" xmlns:sys="clr-namespace:System;assembly=mscorlib">Save</sys:String>
+    <sys:String x:Key="Run" xmlns:sys="clr-namespace:System;assembly=mscorlib">Run</sys:String>
+    <sys:String x:Key="Stop" xmlns:sys="clr-namespace:System;assembly=mscorlib">Stop</sys:String>
+    <sys:String x:Key="FlowSave" xmlns:sys="clr-namespace:System;assembly=mscorlib">Save Flow</sys:String>
+    <sys:String x:Key="FlowLoad" xmlns:sys="clr-namespace:System;assembly=mscorlib">Load Flow</sys:String>
+    <sys:String x:Key="LanguageToggle" xmlns:sys="clr-namespace:System;assembly=mscorlib">中文</sys:String>
+    <sys:String x:Key="PickWindow" xmlns:sys="clr-namespace:System;assembly=mscorlib">Pick</sys:String>
+</ResourceDictionary>

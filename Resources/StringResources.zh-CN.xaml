@@ -1,0 +1,43 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <sys:String x:Key="AppTitle" xmlns:sys="clr-namespace:System;assembly=mscorlib">自动化工具</sys:String>
+    <sys:String x:Key="TargetWindowTitle" xmlns:sys="clr-namespace:System;assembly=mscorlib">目标窗口标题</sys:String>
+    <sys:String x:Key="PickWindow" xmlns:sys="clr-namespace:System;assembly=mscorlib">选择</sys:String>
+    <sys:String x:Key="MatchConfidence" xmlns:sys="clr-namespace:System;assembly=mscorlib">匹配阈值</sys:String>
+    <sys:String x:Key="PinHost" xmlns:sys="clr-namespace:System;assembly=mscorlib">PIN 主机</sys:String>
+    <sys:String x:Key="PinPort" xmlns:sys="clr-namespace:System;assembly=mscorlib">PIN 端口</sys:String>
+    <sys:String x:Key="LoopEnabled" xmlns:sys="clr-namespace:System;assembly=mscorlib">循环</sys:String>
+    <sys:String x:Key="Steps" xmlns:sys="clr-namespace:System;assembly=mscorlib">步骤列表</sys:String>
+    <sys:String x:Key="Add" xmlns:sys="clr-namespace:System;assembly=mscorlib">新增</sys:String>
+    <sys:String x:Key="Remove" xmlns:sys="clr-namespace:System;assembly=mscorlib">删除</sys:String>
+    <sys:String x:Key="Up" xmlns:sys="clr-namespace:System;assembly=mscorlib">上移</sys:String>
+    <sys:String x:Key="Down" xmlns:sys="clr-namespace:System;assembly=mscorlib">下移</sys:String>
+    <sys:String x:Key="StepEditor" xmlns:sys="clr-namespace:System;assembly=mscorlib">步骤编辑</sys:String>
+    <sys:String x:Key="Name" xmlns:sys="clr-namespace:System;assembly=mscorlib">名称</sys:String>
+    <sys:String x:Key="Action" xmlns:sys="clr-namespace:System;assembly=mscorlib">动作</sys:String>
+    <sys:String x:Key="TemplateFile" xmlns:sys="clr-namespace:System;assembly=mscorlib">模板</sys:String>
+    <sys:String x:Key="Browse" xmlns:sys="clr-namespace:System;assembly=mscorlib">选择</sys:String>
+    <sys:String x:Key="Paste" xmlns:sys="clr-namespace:System;assembly=mscorlib">粘贴</sys:String>
+    <sys:String x:Key="Clear" xmlns:sys="clr-namespace:System;assembly=mscorlib">清除</sys:String>
+    <sys:String x:Key="TemplateHint" xmlns:sys="clr-namespace:System;assembly=mscorlib">拖拽图片到此处或按 Ctrl+V 粘贴</sys:String>
+    <sys:String x:Key="Timeout" xmlns:sys="clr-namespace:System;assembly=mscorlib">超时(秒)</sys:String>
+    <sys:String x:Key="Swipe" xmlns:sys="clr-namespace:System;assembly=mscorlib">下拉/上滑(窗口内坐标)</sys:String>
+    <sys:String x:Key="StartX" xmlns:sys="clr-namespace:System;assembly=mscorlib">起点 X</sys:String>
+    <sys:String x:Key="StartY" xmlns:sys="clr-namespace:System;assembly=mscorlib">起点 Y</sys:String>
+    <sys:String x:Key="EndX" xmlns:sys="clr-namespace:System;assembly=mscorlib">终点 X</sys:String>
+    <sys:String x:Key="EndY" xmlns:sys="clr-namespace:System;assembly=mscorlib">终点 Y</sys:String>
+    <sys:String x:Key="TextMessage" xmlns:sys="clr-namespace:System;assembly=mscorlib">文本/消息</sys:String>
+    <sys:String x:Key="TemplatesFolder" xmlns:sys="clr-namespace:System;assembly=mscorlib">模板目录</sys:String>
+    <sys:String x:Key="DoneMessage" xmlns:sys="clr-namespace:System;assembly=mscorlib">完成消息</sys:String>
+    <sys:String x:Key="ValidateStep" xmlns:sys="clr-namespace:System;assembly=mscorlib">校验步骤是否完成</sys:String>
+    <sys:String x:Key="FailAction" xmlns:sys="clr-namespace:System;assembly=mscorlib">失败动作</sys:String>
+    <sys:String x:Key="FailTarget" xmlns:sys="clr-namespace:System;assembly=mscorlib">失败跳转步骤序号</sys:String>
+    <sys:String x:Key="FailMessage" xmlns:sys="clr-namespace:System;assembly=mscorlib">失败消息</sys:String>
+    <sys:String x:Key="Load" xmlns:sys="clr-namespace:System;assembly=mscorlib">加载</sys:String>
+    <sys:String x:Key="Save" xmlns:sys="clr-namespace:System;assembly=mscorlib">保存</sys:String>
+    <sys:String x:Key="Run" xmlns:sys="clr-namespace:System;assembly=mscorlib">运行</sys:String>
+    <sys:String x:Key="Stop" xmlns:sys="clr-namespace:System;assembly=mscorlib">停止</sys:String>
+    <sys:String x:Key="FlowSave" xmlns:sys="clr-namespace:System;assembly=mscorlib">保存流程</sys:String>
+    <sys:String x:Key="FlowLoad" xmlns:sys="clr-namespace:System;assembly=mscorlib">加载流程</sys:String>
+    <sys:String x:Key="LanguageToggle" xmlns:sys="clr-namespace:System;assembly=mscorlib">EN</sys:String>
+</ResourceDictionary>
